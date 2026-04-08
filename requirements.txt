@@ -1,0 +1,4 @@
+boto3==1.28.3
+Pillow==10.0.0
+selenium==4.11.2
+requests==2.31.0
