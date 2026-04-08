@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/800x200/1e1e2e/00d4aa?text=Python+Automation+Toolkit" alt="Python Automation Banner" />
+<img src="https://placehold.co/800x200/1e1e2e/00d4aa?text=Python+Automation+Toolkit" alt="Python Automation Banner" />
 
 **A premium collection of Python scripts designed to automate the boring parts of your digital life.**
 
@@ -54,3 +54,4 @@ Have a script that saves you hours of time? Open a Pull Request and add it to th
 
 ---
 *Built with ❤️ to save you time. If you use this, please give the repo a ⭐!*
+
